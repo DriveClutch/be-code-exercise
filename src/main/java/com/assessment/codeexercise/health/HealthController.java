@@ -1,4 +1,4 @@
-package com.driveclutch.codeexercise.health;
+package com.assessment.codeexercise.health;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

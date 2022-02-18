@@ -1,4 +1,4 @@
-package com.driveclutch.codeexercise;
+package com.assessment.codeexercise;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

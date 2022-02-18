@@ -1,4 +1,4 @@
-package com.driveclutch.codeexercise.users;
+package com.assessment.codeexercise.users;
 
 import org.joda.time.DateTime;
 
